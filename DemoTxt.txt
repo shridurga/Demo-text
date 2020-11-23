@@ -1,1 +1,3 @@
 Hello Sridurga.  Now you are learning git commands
+
+I did change the doc in GitHub
